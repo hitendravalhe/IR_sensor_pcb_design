@@ -3,7 +3,7 @@
 
 # IR Sensor PCB Design with LM35
 
-![IR Sensor PCB](images/pcb_image.jpg)
+![IR Sensor PCB]([images/pcb_image.jpg](https://www.engineersgarage.com/wp-content/uploads/2019/10/Circuit-Diagram-Infrared-IR-sensor-LM358.gif))
 
 This repository contains the design files and documentation for an Infrared (IR) sensor PCB with an integrated LM35 temperature sensor. This project aims to provide a cost-effective and reliable solution for IR sensing applications, with the added feature of temperature measurement using the LM35 sensor.
 
@@ -29,13 +29,10 @@ Infrared (IR) sensors are commonly used for a wide range of applications, includ
 
 ## Schematic
 
-![Schematic](schematics/schematic.png)
-
 The schematic above illustrates the connections and components used in the IR sensor PCB design. It includes the IR sensor module, LM35 temperature sensor, power supply, and output connections. You can find the detailed schematic file in the [schematics](schematics) directory.
 
 ## PCB Layout
 
-![PCB Layout](images/pcb_layout.png)
 
 The PCB layout file and design files can be found in the [pcb_design](pcb_design) directory. This layout has been optimized for easy assembly and compatibility with standard PCB manufacturing processes.
 
